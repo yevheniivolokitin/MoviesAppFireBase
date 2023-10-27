@@ -1,1 +1,1 @@
-# MoviesSearchFireBase
+# MoviesAppFireBase
